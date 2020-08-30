@@ -31,7 +31,7 @@ a {
 }
 /*gita*/
 #header{
-    background-color    : #80b3ff;
+    background-color    : #228B22;
     clear               : both;
     padding-top         : 6px;
     height              : 10%;
@@ -80,7 +80,7 @@ body {
 
 .header {
     overflow: hidden;
-    background-color: #4dc3ff;
+    background-color: #32CD32;
     padding: 15px 10px;
   }
 
@@ -164,7 +164,7 @@ input { /*kaca pembesar*/
 /* Bagian Atas Awal*/
 .top-wrapper {
   padding: 180px 0 100px 0; /*membuat backgound pindah posisi*/
-  background-image: url(https://i.imgur.com/u3vISQ1h.jpg);
+  background-image: url(https://i.imgur.com/Pv24T2mh.jpg);
   background-size: cover;/* cover adalah kata untuk membuat gambar menyesuaikan layar*/
   color: black;
   text-align: center;
@@ -225,7 +225,7 @@ input { /*kaca pembesar*/
 header {
   height: 88 px;
   width: 100%;
-  background-color: rgba(109, 232, 255, 0.9); /*backgound header*/
+  background-color: rgba(34, 139, 35, 0.3); /*backgound header dibelakang logo2 itu*/
   position :fixed;
   top: 0;
   z-index: 80;
@@ -255,7 +255,7 @@ header {
 }
 
 .header-right a:hover {
-  background-color: rgba(16, 84, 14, 0.3);
+  background-color: rgba(178, 34, 33, 0.3);
 }
 
 /*bagian akhir dari BAGIAN ATAS*/
@@ -276,7 +276,7 @@ header {
 
 .lesson {
   float: left; /*membuat gambar dari kanan ke kiri*/
-  width: 25%; /*membuat gambar jadi memnuhi dalam persen*/
+  width: 33%; /*membuat gambar jadi memnuhi dalam persen*/
   margin-top: 30px; /*margin atas dari gambar berlian*/
 }
 
